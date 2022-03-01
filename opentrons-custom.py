@@ -3,9 +3,9 @@ from opentrons import protocol_api
 
 # metadata
 metadata = {
-    'protocolName': 'Pipette Printer',
-    'author': 'Alex Hadik <ahadik@mit.edu>',
-    'description': 'A simple protocol template for the pipette printing lab.',
+    'protocolName': 'Flag Printer',
+    'author': 'Eugen Ursu',
+    'description': 'A simple protocol printing a flag',
     'apiLevel': '2.11'
 }
 
